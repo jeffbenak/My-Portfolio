@@ -1,4 +1,4 @@
-# My Updated Portfolio
+# My Portfolio
 
 ## Description 
 - This is my portfolio that shows a little bit about me, images that lead to projects I have worked on when clicked, and contact information on the bottom of the page.
