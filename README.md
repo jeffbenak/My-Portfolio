@@ -5,6 +5,8 @@
 - There is also a link to my github, linkedin, and resume in the contact info section of the page as well. 
 - Not all of the images links are deployed pages, some of them are just the link to the github pages which all have READMEs that tell you how to use the application.
 
+
+
 ## Usage 
 - You will find the link to my portfolio below the screenshots in this README, and once you get there feel free to start clicking the images and exploring each project. 
 
